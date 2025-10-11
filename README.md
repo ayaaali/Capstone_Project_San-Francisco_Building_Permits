@@ -3,7 +3,7 @@
 
 ## Project Overview
 This project analyzes the San Francisco Building Permit Applications dataset to uncover insights into the city’s construction activity, cost trends, approval delays, and neighborhood growth patterns.
-The main goal is to identify factors affecting permit approval times and support data-driven decision-making for improving the efficiency and transparency of the permitting system.
+The main goal is to identify factors affecting permit approval times and support data driven decision-making for improving the efficiency and transparency of the permitting system.
 
 ## Objectives
 1- Identify the most and least common permit types in San Francisco.
@@ -70,9 +70,9 @@ Year → Extracted from Permit Creation Date.
 3- Feature Engineering: Approval time, year extraction, cost normalization
 
 ## Conclusions
-1- Complex and high-cost permits take significantly longer to approve.
+1- Complex and high cost permits take significantly longer to approve.
 
-2- Most construction occurs in a few high-demand neighborhoods.
+2- Most construction occurs in a few high demand neighborhoods.
 
 3- Administrative delays vary year by year.
 
